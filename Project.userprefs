@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Copie\Assets\TCG\Menu\Scripts\MainMenuScript.cs">
+    <Files>
+      <File FileName="..\Copie\Assets\TCG\Scripts\MainMenu.cs" Line="33" Column="35" />
+      <File FileName="..\Copie\Assets\TCG\Menu\Scripts\MainMenuScript.cs" Line="112" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
